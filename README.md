@@ -11,3 +11,4 @@ Angularjs-resource-links
 * [intro to animations](https://speakerdeck.com/jessicaspacekat/an-introduction-to-designing-css-transitions-using-angularjs)
 * [mozilla transitions](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_transitions)
 * [css easing] (http://easings.net)
+* [restarting animations] (http://css-tricks.com/restart-css-animation/)
