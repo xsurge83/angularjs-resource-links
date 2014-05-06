@@ -12,3 +12,7 @@ Angularjs-resource-links
 * [mozilla transitions](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_transitions)
 * [css easing] (http://easings.net)
 * [restarting animations] (http://css-tricks.com/restart-css-animation/)
+
+
+## Directives 
+* [Directives made easy](http://seanhess.github.io/2013/10/14/angularjs-directive-design.html)
